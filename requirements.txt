@@ -35,9 +35,6 @@ cached-property
 certifi==2021.10.8
 cffi 
 
-charset-normalizer 
-
-
 clyent==1.2.2
 colorama 
 conda==4.11.0
