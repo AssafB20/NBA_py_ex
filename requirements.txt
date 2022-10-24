@@ -37,7 +37,7 @@ cffi
 chardet 
 charset-normalizer 
 click==8.0.3
-cloudpickle 
+
 clyent==1.2.2
 colorama 
 conda==4.11.0
