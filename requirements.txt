@@ -34,7 +34,7 @@ brotlipy==0.7.0
 cached-property 
 certifi==2021.10.8
 cffi 
-chardet 
+
 charset-normalizer 
 
 
