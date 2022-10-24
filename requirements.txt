@@ -1,38 +1,6 @@
-alabaster 
-anaconda-client 
 
-anyio==3.6.2
-appdirs==1.4.4
-applaunchservices
-appnope 
-appscript 
-argh==0.26.2
-argon2-cffi 
-arrow 
-asn1crypto 
-astroid
-astropy 
-async-generator
-atomicwrites==1.4.0
-attrs 
-autopep8 
-Babel 
-backcall 
-backports.functools-lru-cache
-backports.shutil-get-terminal-size
-backports.weakref==1.0.post1
 beautifulsoup4 
-binaryornot
-bitarray 
-bkcharts==0.2
-black==19.10b0
-bleach
-bokeh 
-boto==2.49.0
-Bottleneck 
-brotlipy==0.7.0
-cached-property 
-certifi==2021.10.8
+
 
 
 conda==4.11.0
@@ -43,25 +11,9 @@ conda-package-handling
 conda-repo-cli
 conda-token 
 
-distributed
-docutils 
-entrypoints==0.3
-et-xmlfile==1.1.0
-fastcache 
-fastjsonschema==2.16.2
-filelock
-flake8 
 Flask 
 
-gmpy2==2.0.8
-greenlet==1.1.2
-h5py 
-HeapDict 
-html5lib 
-ibm-db==3.1.0
-ibm-db-sa==0.3.3
-idna 
-imagecodecs 
+
 imageio 
 imagesize 
 importlib-metadata 
