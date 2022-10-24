@@ -3,23 +3,7 @@ beautifulsoup4
 
 
 
-conda==4.11.0
-conda-build==3.21.5
-conda-content-trust 
-conda-pack 
-conda-package-handling 
-conda-repo-cli
-conda-token 
 
-Flask 
-
-
-imageio 
-imagesize 
-importlib-metadata 
-inflection==0.5.1
-iniconfig 
-intervaltree 
 ipykernel 
 ipython 
 ipython-genutils 
